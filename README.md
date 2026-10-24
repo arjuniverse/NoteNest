@@ -1,5 +1,50 @@
 # NoteNest
 
+NoteNest is a simple and intuitive note-taking application designed to help users create, organize, and manage their notes in one place. It provides a clean and user-friendly interface for storing important thoughts, ideas, and information.
+
+## Features
+
+- Create and save notes
+- Edit existing notes
+- Delete notes
+- Easily manage and organize notes
+- Clean and user-friendly interface
+- Store important thoughts and information in one place
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the required development environment installed for the technologies used in this project.
+
+### Installation
+
+#### 1. Clone the Repository
+
+```bash
+git clone <repository-url>
+```
+
+#### 2. Navigate to the Project Directory
+
+```bash
+cd NoteNest
+```
+
+#### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+#### 4. Start the Development Server
+
+```bash
+npm run dev
+```
+
+The application will be available at the local development server URL provided in your terminal.
+
 ## Tech Stack
 
 The technologies used in this project include:
