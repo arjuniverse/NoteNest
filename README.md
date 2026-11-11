@@ -1,4 +1,6 @@
+# NoteNest
 
+NoteNest is a simple and intuitive note-taking application designed to help users create, organize, and manage their notes in one place. It provides a clean and user-friendly interface for storing important thoughts, ideas, and information.
 
 ## Features
 
